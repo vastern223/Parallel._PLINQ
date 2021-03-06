@@ -1,0 +1,7 @@
+C:\Users\Kolotyuk\source\repos\Parallel. PLINQ\task1\bin\Debug\task1.exe.config
+C:\Users\Kolotyuk\source\repos\Parallel. PLINQ\task1\bin\Debug\task1.exe
+C:\Users\Kolotyuk\source\repos\Parallel. PLINQ\task1\bin\Debug\task1.pdb
+C:\Users\Kolotyuk\source\repos\Parallel. PLINQ\task1\obj\Debug\task1.csprojAssemblyReference.cache
+C:\Users\Kolotyuk\source\repos\Parallel. PLINQ\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+C:\Users\Kolotyuk\source\repos\Parallel. PLINQ\task1\obj\Debug\task1.exe
+C:\Users\Kolotyuk\source\repos\Parallel. PLINQ\task1\obj\Debug\task1.pdb
